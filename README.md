@@ -1,7 +1,7 @@
 # adblocker-detection-minimal
 The most minimal adblocker detection you will ever need. Just add this script to your website
 
-Randomize script name + function name for full protection 
+Randomize the function name to prevent adblockers from just patching this function out.
 The function will return true if adblocker is detected
 
  

@@ -2,8 +2,10 @@
 The most minimal adblocker detection you will ever need. Just add this script to your website
 
 Usage:
+``` js
 if(detect_adblock())
    alert('ADBLOCK DETECTED')
+```
 
 
 Randomize the function name to prevent adblockers from just patching this function out.
